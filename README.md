@@ -1,0 +1,2 @@
+# barakah
+Hall Managment System
